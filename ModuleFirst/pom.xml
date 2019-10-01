@@ -12,7 +12,7 @@
     <artifactId>moduleFirst</artifactId>
     <packaging>pom</packaging>
     <modules>
-        <module>moduleFirst</module>
+        <module>moduleFirstInModuleFirst</module>
     </modules>
 
 
